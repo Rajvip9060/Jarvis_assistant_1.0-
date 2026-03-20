@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Jarvis_assistant/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 2291,
+          "line": 54
+        },
+        "start": {
+          "column": 11,
+          "index": 2291,
+          "line": 54
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Jarvis_assistant/app/src/main/AndroidManifest.xml"
+}
